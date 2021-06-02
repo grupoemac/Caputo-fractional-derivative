@@ -4,7 +4,8 @@ Function `caputo.m` computes the Caputo fractional derivative of order <img src=
 
 Function `quadrature.m` returns the weighted coefficients of the (<img src="https://render.githubusercontent.com/render/math?math=4 - \alpha">)-th order quadrature formule (2.7) developed in [1], and function `caputo.m` uses these weights to evaluate numerically the Caputo derivative of order alpha.
 
-Scripts `test1.m` and `test1.m` xxx
+Scripts `test1.m` computes the Caputo derivative of order alpha (0 < alpha < 1) of <img src="https://render.githubusercontent.com/render/math?math=f(t)=t^4">
+for <img src="https://render.githubusercontent.com/render/math?math=t\in [0,T]">, with <img src="https://render.githubusercontent.com/render/math?math=T=1">.
 
 ## References
 
