@@ -4,7 +4,7 @@ Function `caputo.m` computes the Caputo fractional derivative of order <img src=
 
 Function `quadrature.m` returns the weighted coefficients of the (<img src="https://render.githubusercontent.com/render/math?math=4 - \alpha">)-th order quadrature formule (2.7) developed in [1], and function `caputo.m` uses these weights to evaluate numerically the Caputo derivative of order alpha.
 
-Scripts `test1.m` and `test2.m` evaluate numerically the Caputo fractional derivative of order <img src="https://render.githubusercontent.com/render/math?math=\alpha">  of <img src="https://render.githubusercontent.com/render/math?math=f(t)=t^4"> and <img src="https://render.githubusercontent.com/render/math?math=f(t)=e^{2t}"> respectively, for <img src="https://render.githubusercontent.com/render/math?math=t\in [0,T]">. Approximation errors and convergence orders are illustrated at <img src="https://render.githubusercontent.com/render/math?math=T=1">. 
+Scripts `test1.m` and `test2.m` evaluate numerically the Caputo fractional derivative of order <img src="https://render.githubusercontent.com/render/math?math=\alpha">  of <img src="https://render.githubusercontent.com/render/math?math=f(t)=t^4"> and <img src="https://render.githubusercontent.com/render/math?math=f(t)=e^{2t}"> respectively, for <img src="https://render.githubusercontent.com/render/math?math=t\in [0,T]">. Approximation errors and convergence orders are illustrated at <img src="https://render.githubusercontent.com/render/math?math=T=1">. See examples 3.1 and 3.2 at [1].
 
 ## References
 
