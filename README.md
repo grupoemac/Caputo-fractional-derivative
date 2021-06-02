@@ -4,5 +4,6 @@ Function `caputo.m` computes the Caputo fractional derivative of order <img src=
 
 Function `quadrature.m` returns the weighted coefficients of the (<img src="https://render.githubusercontent.com/render/math?math=4 - \alpha">)-th order quadrature formule (2.7) developed in [1].
 
-##References
+## References
+
 [1] Cao, J., Li, C., & Chen, Y. (2015). High-order approximation to Caputo derivatives and Caputo-type advection-diffusion equations (II). Fractional calculus and  Applied analysis, 18(3), 735-761.
