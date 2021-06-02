@@ -8,4 +8,4 @@ Scripts `test1.m` and `test2.m` evaluate numerically the Caputo fractional deriv
 
 ## References
 
-[1] Cao, J., Li, C., & Chen, Y. (2015). High-order approximation to Caputo derivatives and Caputo-type advection-diffusion equations (II). Fractional calculus and  Applied analysis, 18(3), 735-761.
+[1] [Cao, J., Li, C., & Chen, Y. (2015). High-order approximation to Caputo derivatives and Caputo-type advection-diffusion equations (II). Fractional calculus and  Applied analysis, 18(3), 735-761](https://www.degruyter.com/document/doi/10.1515/fca-2015-0045/html).
